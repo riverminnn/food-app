@@ -10,7 +10,9 @@ An Android app for managing food items with SQLite database.
 ## Setup
 1. Clone the repo:
 
-git clone https://github.com/your-username/FoodApp.git
+```sh
+   git clone https://github.com/your-username/FoodApp.git
+```
 
 2. Open in **Android Studio**  
 3. Run the app on **Emulator or Device**  
