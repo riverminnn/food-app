@@ -11,7 +11,7 @@ An Android app for managing food items with SQLite database.
 1. Clone the repo:
 
 ```sh
-   git clone https://github.com/your-username/FoodApp.git
+   git clone https://github.com/riverminnn/food-app.git
 ```
 
 2. Open in **Android Studio**  
